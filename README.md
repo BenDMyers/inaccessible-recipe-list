@@ -11,3 +11,5 @@ This template is built from [HTML.Design's Recipelist template](https://html.des
 - [Commenter #1 avatar by Kebs Visuals from Pexels](https://www.pexels.com/photo/portrait-photo-of-a-woman-3992656/)
 - [Commenter #2 avatar by Ketut Subiyanto from Pexels](https://www.pexels.com/photo/cheerful-man-in-turban-with-cup-of-beverage-4307643/)
 - [Commenter #3 avatar by Hannah Nelson from Pexels](https://www.pexels.com/photo/close-up-photography-of-a-woman-near-wall-1065084/)
+- [Nike advertisement GIF by Arif Raihan](https://dribbble.com/shots/13995477-Animated-GIF-Banner-AD-1)
+- [Speakers advertisement GIF by Arif Raihan](https://cdn.dribbble.com/users/5297140/screenshots/13986581/media/841084ad283e1926ca2e99b32fe40cfb.gif)
