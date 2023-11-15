@@ -2,7 +2,7 @@
 
 A plausible modern site, built with HTML and CSS, meant to contain a bunch of common accessibility defects.
 
-This template is built from [HTML.Design's Recipelist template](https://html.design/download/recipelist-food-template/), but with changes here and there to make the template less accessible.
+This template is built from [HTML.Design's Recipelist template](https://html.design/download/recipelist-food-template/), but with changes here and there to make the template less accessible. **It preserves the original template's [Creative Commons 3.0 license](https://creativecommons.org/licenses/by/3.0/).**
 
 ## Image Credits
 
